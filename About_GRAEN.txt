@@ -1,0 +1,23 @@
+
+                                                      GRAEN GENERATOR
+
+Graen generator is a new type of electricity generator which converts gravity into electricity directly ( without using a running resource).
+
+My name is Sumith. I am an alumnus of IIT Madras and Cornell university, New york. I lead a startup called MAGWORKS.
+
+www.magworks.org 
+
+It took me 14 years of research to come with the design of GRAEN generator. The design is already in open source and can be found in the link 
+below.
+
+https://www.jiiet.com/index.php/jiiet/article/view/101
+
+Please find below link to an animation video which shows how the generator functions.
+
+https://www.youtube.com/watch?v=4jZce8ZptZg
+
+Please read the paper first and then have a look at the animation video for complete understanding. GRAEN generator is non-polluting and does 
+not consume running water resource. It can provide electricity at a very low price and protect humanity from dangers of global warming/climate
+change. I plan to go open source with the implementation ( i.e. construction of prototype) too.
+
+I want the GRAEN generator to work everywhere on the planet (from cold polar regions to hot deserts).
