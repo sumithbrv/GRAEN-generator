@@ -14,7 +14,7 @@
         "phone": "",                    // Optional. Generally suitable for organisations. Max len 32.
         "description": "Magworks wants to release GRAEN generator in open source. Graen generator is a new type of electricity generator which converts gravity into electricity directly ( without using a running resource).",              // Required. Information about the entity. Max len 2000.
         "webpageUrl": {
-            "https://github.com/sumithbrv/GRAEN-generator/blob/main/README.md": "",                  // Required. Webpage with information about the entity. Starts with https:// or http://. Max len 250.
+            "url": "https://github.com/sumithbrv/GRAEN-generator/blob/main/README.md",                  // Required. Webpage with information about the entity. Starts with https:// or http://. Max len 250.
             "wellKnown": ""             // Optional. If the above URL's hostname does not match the hostname of the funding.json manifest, this establishes provenance. Starts with https:// or http://. Max len 250.
         }
     },
