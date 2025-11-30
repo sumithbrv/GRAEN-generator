@@ -19,7 +19,7 @@
         }
     },
 
-    // Optional. One or more projects for which the funding is solicited.
+   
     "projects": [{
         "guid": "graen-gen-magworks",                    
         "name": "GRAEN generator",                     
@@ -36,9 +36,9 @@
         "tags": ["high-performance"]                      
     }],
 
-    // Required.
+    
     "funding": {
-        // Required. This describes one or more channels via which the entity can receive funds.
+        
         "channels": [{
             "guid": "sumith-sbi",                 
             "type": "bank",               
@@ -46,7 +46,7 @@
             "description": ""           
         }],
 
-        // Required. One or more funding and payment plans.
+        
         "plans": [{
             "guid": "graen-salary-cost",                
             "status": "active",              
