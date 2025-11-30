@@ -1,6 +1,7 @@
                                                     GRAEN GENERATOR
 
-Graen generator is a new type of electricity generator which converts gravity into electricity directly ( without using a running resource).
+Graen generator is a new type of electricity generator which converts gravity into electricity directly ( without using a running 
+resource).
 
 My name is Sumith. I am an alumnus of IIT Madras and Cornell university, New york.
 
@@ -24,5 +25,6 @@ GRAEN generator is non-polluting and does not consume running water resource.
 
 It can provide electricity at a very low price and protect humanity from dangers of global warming/climate change.
 
-I plan to go open source with the implementation ( i.e. construction of prototype) too. I want the generator to function everywhere on the planet (from cold polar regions to hot deserts).
+I plan to go open source with the implementation ( i.e. construction of prototype) too. I want the generator to function everywhere 
+on the planet (from cold polar regions to hot deserts).
 
