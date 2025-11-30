@@ -8,7 +8,7 @@
     // This can be an individual, organisation, community etc.
     "entity": {
         "type": "organisation",                     // Required. [individual, group, organisation, other]. Use the closest approximation.
-        "role": "OWNER",                     // Required. [owner, steward, maintainer, contributor, other]. Use the closest approximation.
+        "role": "owner",                     // Required. [owner, steward, maintainer, contributor, other]. Use the closest approximation.
         "name": "MAGWORKS",                     // Required. Name of the entity. Max len 250.
         "email": "sumithiitm@gmail.com",                    // Required. Max len 250.
         "phone": "",                    // Optional. Generally suitable for organisations. Max len 32.
