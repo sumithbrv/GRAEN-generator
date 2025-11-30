@@ -66,7 +66,7 @@
             "currency": "INR",             // Required. Three letter ISO 4217 currency code. eg: USD
             "frequency": "one-time",            // Required. [one-time, weekly, fortnightly, monthly, yearly, other]
             "channels": ["sumith-sbi"]              // Required. One or more channel IDs defined in channels[] via which this plan can accept payments.
-       }],
+       }]
 
     }
 }
