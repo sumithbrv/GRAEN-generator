@@ -1,4 +1,3 @@
-{
     "$schema": "https://fundingjson.org/schema/v1.1.0.json",
 
     // Optional. Version of the manifest contents.
@@ -77,5 +76,4 @@
             "description": ""           // Optional. Any additional description. Max length 500.
         }]
     }
-}
 
