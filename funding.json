@@ -68,6 +68,19 @@
             "channels": ["sumith-sbi"]              // Required. One or more channel IDs defined in channels[] via which this plan can accept payments.
        }],
 
+ "history": [{
+            "year": 2024,               // Required. Year (fiscal, preferably).
+            "income": 0,                // Optional.
+            "expenses": 0,              // Optional.
+            "taxes": 0,                 // Optional.
+            "currency": "INR",             // Required. Three letter ISO 4217 currency code. eg: USD
+            "description": ""           // Optional. Any additional description. Max length 500.
+        }]
+    }
+}
+
+
+
     }
 }
 
