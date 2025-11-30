@@ -1,7 +1,7 @@
 {
 "$schema": "https://fundingjson.org/schema/v1.1.0.json",
 
-    // sdOptional. Version of the manifest contents.
+    // Optional. Version of the manifest contents.
     "version": "v1.0.0",
 
     // Required. The entity associated with the project, soliciting funds.
@@ -70,11 +70,11 @@
 
  "history": [{
             "year": 2024,               // Required. Year (fiscal, preferably).
-            "income": 0,                // Optional.
-            "expenses": 0,              // Optional.
-            "taxes": 0,                 // Optional.
+            "income": 0,                
+            "expenses": 0,             
+            "taxes": 0,                 
             "currency": "INR",             // Required. Three letter ISO 4217 currency code. eg: USD
-            "description": ""           // Optional. Any additional description. Max length 500.
+            "description": ""           
         }]
     }
 }
